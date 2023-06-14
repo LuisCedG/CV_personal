@@ -1,0 +1,58 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+    text-align: center;
+    opacity: .8;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSitPd98J-66dO6SzfCeWR3Kqv7Kle3fYwpKA&usqp=CAU);
+
+}
+header img{
+    width: 200px;
+    
+}
+header h1{
+    background-color: azure;
+    opacity: .8;
+}
+
+main article{
+    padding-left: 10%;
+    padding-top: 5%;
+}
+
+main h2{
+    font-family: 'Courier New', Courier, monospace;
+    max-width: 100%;
+    background-color: dodgerblue;
+    border-style: dashed;
+    border-radius: 10cm;
+    padding-left: 2%;
+}
+footer a{
+    padding-left: 5%;
+    padding-top: 5%;
+}
+footer h2 {
+    background-color: rgb(190, 221, 253);
+}
+
+button{
+    font-size: 15px;
+    color: red;
+    background-color: rgb(253, 255, 127);
+    border-radius: 10cm;
+    border-style:inherit;
+    padding: 10px 20px;
+}
+
+.titulo_Acerca{
+    padding: 100px;
+}
+
+p{
+    padding: 20px;
+
+}
+
